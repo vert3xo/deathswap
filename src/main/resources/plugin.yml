@@ -1,0 +1,14 @@
+main: me.vert3xo.deathswap.DeathSwap
+name: DeathSwap
+version: ${project.version}
+
+commands:
+  deathswapstart:
+    description: Start the game.
+  deathswapstop:
+    description: Stop the game.
+  deathswapjoin:
+    description: Join the game.
+  deathswapleave:
+    description: Leave the game.
+
